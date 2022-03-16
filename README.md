@@ -1,4 +1,4 @@
-### Hi peoples 👋
+### Hey 👋
 
 - 🔭 I’m currently studing
 - 🌱 I’m currently learning html, css, javascript
